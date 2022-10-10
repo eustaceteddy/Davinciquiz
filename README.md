@@ -76,4 +76,4 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ## Feedback
 Any suggestion and feedback is welcome. You can message me on facebook
 - [Contact on Facebook](https://fb.com/eustace.teddy)
-- [Subscribe my Channel LazyCoder On YouTube](https://www.youtube.com/channel/UCmhCFziDWQepyPeWP709frQ)
+- [Subscribe my Channel Esco Gamer On YouTube](https://www.youtube.com/channel/UCmhCFziDWQepyPeWP709frQ)
